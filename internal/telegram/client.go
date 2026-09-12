@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/BIGGASSS/DouyuNotifier/internal/model"
+	"github.com/BIGGASSS/douyu-notifier/internal/model"
 )
 
 type HTTPDoer interface {

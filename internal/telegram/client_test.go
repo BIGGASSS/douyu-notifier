@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/BIGGASSS/DouyuNotifier/internal/model"
+	"github.com/BIGGASSS/douyu-notifier/internal/model"
 )
 
 type doerFunc func(*http.Request) (*http.Response, error)

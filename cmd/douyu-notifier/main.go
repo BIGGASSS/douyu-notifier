@@ -9,11 +9,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/BIGGASSS/DouyuNotifier/internal/app"
-	"github.com/BIGGASSS/DouyuNotifier/internal/config"
-	"github.com/BIGGASSS/DouyuNotifier/internal/cookies"
-	"github.com/BIGGASSS/DouyuNotifier/internal/douyu"
-	"github.com/BIGGASSS/DouyuNotifier/internal/telegram"
+	"github.com/BIGGASSS/douyu-notifier/internal/app"
+	"github.com/BIGGASSS/douyu-notifier/internal/config"
+	"github.com/BIGGASSS/douyu-notifier/internal/cookies"
+	"github.com/BIGGASSS/douyu-notifier/internal/douyu"
+	"github.com/BIGGASSS/douyu-notifier/internal/telegram"
 )
 
 func main() {

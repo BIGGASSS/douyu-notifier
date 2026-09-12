@@ -1,4 +1,4 @@
-# Douyu Live Status Notifier
+# douyu-notifier
 
 Monitors followed streamers on Douyu TV and sends Telegram notifications when a stream starts or ends. It is implemented in Go with no third-party runtime dependencies.
 

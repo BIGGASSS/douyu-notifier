@@ -7,10 +7,10 @@ import (
 	"io"
 	"time"
 
-	"github.com/BIGGASSS/DouyuNotifier/internal/cookies"
-	"github.com/BIGGASSS/DouyuNotifier/internal/douyu"
-	"github.com/BIGGASSS/DouyuNotifier/internal/model"
-	"github.com/BIGGASSS/DouyuNotifier/internal/telegram"
+	"github.com/BIGGASSS/douyu-notifier/internal/cookies"
+	"github.com/BIGGASSS/douyu-notifier/internal/douyu"
+	"github.com/BIGGASSS/douyu-notifier/internal/model"
+	"github.com/BIGGASSS/douyu-notifier/internal/telegram"
 )
 
 type Provider interface {

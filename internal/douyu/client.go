@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/BIGGASSS/DouyuNotifier/internal/model"
+	"github.com/BIGGASSS/douyu-notifier/internal/model"
 )
 
 // HTTPDoer is implemented by http.Client.

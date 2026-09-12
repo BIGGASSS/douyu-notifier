@@ -1,6 +1,6 @@
 [Unit]
 Description=Douyu live status Telegram notifier
-Documentation=https://github.com/BIGGASSS/DouyuNotifier
+Documentation=https://github.com/BIGGASSS/douyu-notifier
 Wants=network-online.target
 After=network-online.target
 
